@@ -57,6 +57,8 @@
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaliazouzi&theme=holi-theme">
 </p>
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- markdownlint-enable MD033 -->
