@@ -59,5 +59,5 @@
 </p>
 <br>
   <br>
- <img alt="snake eating my contribution" src="https://github.com/mohamedaliazouzi/mohamedaliazouzi/blob/output/profile-3d-contrib/profile-green-animate.svg">
+ <img alt="snake eating my contribution" src="https://github.com/mohamedaliazouzi/mohamedaliazouzi/profile-3d-contrib/profile-green-animate.svg">
 <!-- markdownlint-enable MD033 -->
