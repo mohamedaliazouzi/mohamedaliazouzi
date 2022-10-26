@@ -58,7 +58,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaliazouzi&theme=holi-theme">
 </p>
 <br>
-![](./profile-3d-contrib/profile-green-animate.svg)
   <br>
-
+ <img alt="snake eating my contribution" src="https://github.com/mohamedaliazouzi/mohamedaliazouzi/blob/output/profile-3d-contrib/profile-green-animate.svg">
 <!-- markdownlint-enable MD033 -->
