@@ -36,6 +36,7 @@
 ![Ubuntu](https://img.icons8.com/color/72/ubuntu--v1.png)
 ![Linux](https://img.icons8.com/color/72/linux.png)
 ![Kali Linux](https://img.icons8.com/color/72/kali-linux.png)
+![CLOUDERA](https://cdn.icon-icons.com/icons2/2699/PNG/96/cloudera_logo_icon_169381.png)
 
 ![IntellijIdea](https://img.icons8.com/color/72/intellij-idea.png)
 ![PHPStorm](https://cdn.icon-icons.com/icons2/3053/PNG/72/intellij_phpstorm_macos_bigsur_icon_190057.png)
