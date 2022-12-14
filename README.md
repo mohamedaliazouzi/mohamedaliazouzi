@@ -25,6 +25,8 @@
 ![WordPress](https://img.icons8.com/color/72/wordpress.png)
 ![SASS](https://img.icons8.com/color/72/sass.png)
 ![Mysql](https://img.icons8.com/color/72/mysql-logo.png)
+![GraphQL](https://img.icons8.com/color/72/graphql)
+![API](https://img.icons8.com/color/72/api)
 
 ![NPM](https://img.icons8.com/color/72/npm.png)
 ![Github](https://img.icons8.com/ios-glyphs/72/github.png)
@@ -36,11 +38,12 @@
 ![Kali Linux](https://img.icons8.com/color/72/kali-linux.png)
 
 ![IntellijIdea](https://img.icons8.com/color/72/intellij-idea.png)
-![dfsdfsdf](https://cdn.icon-icons.com/icons2/3053/PNG/72/intellij_phpstorm_macos_bigsur_icon_190057.png)
+![PHPStorm](https://cdn.icon-icons.com/icons2/3053/PNG/72/intellij_phpstorm_macos_bigsur_icon_190057.png)
 ![Console](https://img.icons8.com/color/72/console.png)
 ![Console](https://img.icons8.com/fluency/72/jupyter.png)
 ![Console](https://img.icons8.com/fluency/72/anaconda--v2.png)
 ![VSCode](https://img.icons8.com/color/72/visual-studio-code-2019.png)
+![VSStudio2022](https://img.icons8.com/color/72/null/visual-studio--v2.png)
 
 
 
