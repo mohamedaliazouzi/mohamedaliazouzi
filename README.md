@@ -10,7 +10,7 @@
 - :moneybag: Looking for new clients who wants to work with me, [contact me](mailto:mohamedali.azaouzi@esprit.tn) please.
 - :coffee: Coffee lover!
 - :trophy: 2022 Goals: Contribute to open source projects.
-- :dart: Wasting my time to save other people's time.
+<!--- :dart: Wasting my time to save other people's time.-->
 
 
 ## :wrench: Technologies
