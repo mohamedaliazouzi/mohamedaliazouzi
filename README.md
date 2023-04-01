@@ -20,6 +20,7 @@
 ![JavaScript](https://img.icons8.com/color/72/javascript.png)
 ![Java](https://img.icons8.com/color/72/java-coffee-cup-logo--v1.png)
 ![Java](https://img.icons8.com/nolan/72/scene-builder.png)
+![SQL](https://img.icons8.com/external-outline-juicy-fish/72/null/external-sql-coding-and-development-outline-outline-juicy-fish.png)
 ![PHP](https://img.icons8.com/color/72/php.png)
 ![SYMFONY](https://img.icons8.com/color/72/symfony.png)
 ![DotNet](https://cdn.icon-icons.com/icons2/2415/PNG/72/dot_net_original_wordmark_logo_icon_146547.png)
