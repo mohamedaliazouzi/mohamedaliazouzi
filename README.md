@@ -51,6 +51,7 @@
 ![Console](https://img.icons8.com/fluency/72/anaconda--v2.png)
 ![VSCode](https://img.icons8.com/color/72/visual-studio-code-2019.png)
 ![VSStudio2022](https://img.icons8.com/color/72/null/visual-studio--v2.png)
+![PowerBi](https://img.icons8.com/color/72/power-bi--v2.png)
 
 
 
