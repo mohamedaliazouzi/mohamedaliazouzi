@@ -30,6 +30,7 @@
 ![Mysql](https://img.icons8.com/color/72/mysql-logo.png)
 ![GraphQL](https://img.icons8.com/color/72/graphql)
 ![API](https://img.icons8.com/color/72/api)
+![Docker](https://img.icons8.com/color/72/docker)
 <img src="https://styles.redditmedia.com/t5_2rsc80/styles/communityIcon_ao8w1ey2od551.png" width=72px height=72px>
 
 ![NPM](https://img.icons8.com/color/72/npm.png)
