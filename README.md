@@ -23,6 +23,7 @@
 ![Java](https://img.icons8.com/nolan/72/scene-builder.png)
 ![SQL](https://img.icons8.com/external-outline-juicy-fish/72/null/external-sql-coding-and-development-outline-outline-juicy-fish.png)
 ![PHP](https://img.icons8.com/color/72/php.png)
+
 ![LARAVEL](https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg)
 ![SYMFONY](https://img.icons8.com/color/72/symfony.png)
 ![Django](https://img.icons8.com/color/72/django)
