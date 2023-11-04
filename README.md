@@ -20,7 +20,6 @@
 ![JavaScript](https://img.icons8.com/color/72/javascript.png)
 ![Java](https://img.icons8.com/color/72/java-coffee-cup-logo--v1.png)
 ![Pyhton](https://img.icons8.com/color/72/python)
-![Java](https://img.icons8.com/nolan/72/scene-builder.png)
 ![SQL](https://img.icons8.com/external-outline-juicy-fish/72/null/external-sql-coding-and-development-outline-outline-juicy-fish.png)
 ![PHP](https://img.icons8.com/color/72/php.png)
 
@@ -37,6 +36,7 @@
 
 ![NPM](https://img.icons8.com/color/72/npm.png)
 ![Docker](https://img.icons8.com/color/72/docker)
+![Java](https://img.icons8.com/nolan/72/scene-builder.png)
 ![Github](https://img.icons8.com/ios-glyphs/72/github.png)
 ![Git](https://img.icons8.com/color/72/git.png)
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" >
