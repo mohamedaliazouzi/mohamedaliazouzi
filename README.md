@@ -29,6 +29,7 @@
 ![DotNet](https://cdn.icon-icons.com/icons2/2415/PNG/72/dot_net_original_wordmark_logo_icon_146547.png)
 ![WordPress](https://img.icons8.com/color/72/wordpress.png)
 ![SASS](https://img.icons8.com/color/72/sass.png)
+![Java](https://img.icons8.com/nolan/72/scene-builder.png)
 ![Mysql](https://img.icons8.com/color/72/mysql-logo.png)
 ![GraphQL](https://img.icons8.com/color/72/graphql)
 ![API](https://img.icons8.com/color/72/api)
