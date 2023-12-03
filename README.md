@@ -1,4 +1,4 @@
-# Hello, I'm Mohamed Ali (:coffee::computer::bulb:)
+# Hello, I'm Mohamed Ali 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=151385&width=435&lines=Fifth+Year+IT+Engineering+Student+;Specialized+in+Business+Intelligence)](https://git.io/typing-svg)
 
