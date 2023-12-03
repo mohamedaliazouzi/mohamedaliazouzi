@@ -6,7 +6,7 @@
 [![Upwork](https://img.shields.io/badge/upwork-%231DB954.svg?&style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0196f8cbf625f2923f)
 
 
-- :muscle: Currently Studying IT engineering and working as a freelance developer.
+- :muscle: Currently Studying IT engineering and working as a freelance full stack developer.
 - :moneybag: Looking for new clients who wants to work with me, [contact me](mailto:mohamedali.azaouzi@esprit.tn) please.
 - :coffee: Coffee lover!
 - :trophy: 2023 Goals: Contribute to open source projects.
