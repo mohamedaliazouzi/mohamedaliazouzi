@@ -26,18 +26,18 @@
 ![LARAVEL](https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg)
 ![SYMFONY](https://img.icons8.com/color/72/symfony.png)
 ![Django](https://img.icons8.com/color/72/django)
-![DotNet](https://cdn.icon-icons.com/icons2/2415/PNG/72/dot_net_original_wordmark_logo_icon_146547.png)
+<img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="72">
 ![WordPress](https://img.icons8.com/color/72/wordpress.png)
 ![SASS](https://img.icons8.com/color/72/sass.png)
-![Java](https://img.icons8.com/nolan/72/scene-builder.png)
+![Scenebuilder](https://img.icons8.com/nolan/72/scene-builder.png)
 ![Mysql](https://img.icons8.com/color/72/mysql-logo.png)
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="72">
 ![GraphQL](https://img.icons8.com/color/72/graphql)
 ![API](https://img.icons8.com/color/72/api)
 <img src="https://styles.redditmedia.com/t5_2rsc80/styles/communityIcon_ao8w1ey2od551.png" width=72px height=72px>
 
 ![NPM](https://img.icons8.com/color/72/npm.png)
 ![Docker](https://img.icons8.com/color/72/docker)
-![Java](https://img.icons8.com/nolan/72/scene-builder.png)
 ![Github](https://img.icons8.com/ios-glyphs/72/github.png)
 ![Git](https://img.icons8.com/color/72/git.png)
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" >
@@ -47,15 +47,15 @@
 ![Ubuntu](https://img.icons8.com/color/72/ubuntu--v1.png)
 ![Linux](https://img.icons8.com/color/72/linux.png)
 ![Kali Linux](https://img.icons8.com/color/72/kali-linux.png)
-![CLOUDERA](https://cdn.icon-icons.com/icons2/2699/PNG/96/cloudera_logo_icon_169381.png)
 
 ![IntellijIdea](https://img.icons8.com/color/72/intellij-idea.png)
-![PHPStorm](https://cdn.icon-icons.com/icons2/3053/PNG/72/intellij_phpstorm_macos_bigsur_icon_190057.png)
+<img src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" width="72">
 ![Console](https://img.icons8.com/color/72/console.png)
 ![Console](https://img.icons8.com/fluency/72/jupyter.png)
 ![Console](https://img.icons8.com/fluency/72/anaconda--v2.png)
 ![VSCode](https://img.icons8.com/color/72/visual-studio-code-2019.png)
 ![VSStudio2022](https://img.icons8.com/color/72/null/visual-studio--v2.png)
+<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="72">
 ![PowerBi](https://img.icons8.com/color/72/power-bi--v2.png)
 
 
