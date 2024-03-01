@@ -6,8 +6,8 @@
 [![Upwork](https://img.shields.io/badge/upwork-%231DB954.svg?&style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0196f8cbf625f2923f)
 
 
-- :muscle: Currently Studying IT engineering and working as a freelance full stack developer.
-- :coffee: Coffee lover!
+- 🚀 Passionate IT engineering student fueled by a love for crafting innovative solutions.
+- 🌐 I thrive on the challenges of software engineering and aspire to leave an indelible mark on the digital landscape.
 - :trophy: 2024 Goals: Add the final strokes to my academic canvas and contribute to open source projects.
 <!--- :dart: Wasting my time to save other people's time.-->
 
