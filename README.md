@@ -36,6 +36,7 @@
 
 ![NPM](https://img.icons8.com/color/72/npm.png)
 ![Docker](https://img.icons8.com/color/72/docker)
+![Kubernetes](https://img.icons8.com/color/72/kubernetes)
 ![Github](https://img.icons8.com/ios-glyphs/72/github.png)
 ![Git](https://img.icons8.com/color/72/git.png)
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" >
