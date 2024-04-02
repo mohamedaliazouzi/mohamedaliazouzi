@@ -16,7 +16,7 @@
 ![HTML5](https://img.icons8.com/color/72/c-plus-plus-logo.png)
 ![HTML5](https://img.icons8.com/color/72/html-5.png)
 ![CSS3](https://img.icons8.com/color/72/css3.png)
-![JavaScript](https://img.icons8.com/color/72/javascript.png)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width=72px height=72px>
 ![Java](https://img.icons8.com/color/72/java-coffee-cup-logo--v1.png)
 ![Pyhton](https://img.icons8.com/color/72/python)
 ![SQL](https://img.icons8.com/external-outline-juicy-fish/72/null/external-sql-coding-and-development-outline-outline-juicy-fish.png)
@@ -28,10 +28,9 @@
 ![WordPress](https://img.icons8.com/color/72/wordpress.png)
 ![SASS](https://img.icons8.com/color/72/sass.png)
 ![Scenebuilder](https://img.icons8.com/nolan/72/scene-builder.png)
-![Mysql](https://img.icons8.com/color/72/mysql-logo.png)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width=72px height=72px>
 <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="72">
-![GraphQL](https://img.icons8.com/color/72/graphql)
-![API](https://img.icons8.com/color/72/api)
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width=72px height=72px>
 <img src="https://styles.redditmedia.com/t5_2rsc80/styles/communityIcon_ao8w1ey2od551.png" width=72px height=72px>
 
 ![NPM](https://img.icons8.com/color/72/npm.png)
