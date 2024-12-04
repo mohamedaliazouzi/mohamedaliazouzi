@@ -37,6 +37,7 @@
 ![Docker](https://img.icons8.com/color/72/docker)
 ![Kubernetes](https://img.icons8.com/color/72/kubernetes)
 ![Terraform](https://img.icons8.com/color/72/terraform)
+![AWS](https://cdn.iconscout.com/icon/free/png-512/free-aws-logo-icon-download-in-svg-png-gif-file-formats--cloud-computing-network-server-database-brand-pack-logos-icons-1583149.png?f=webp&w=72)
 ![Jenkins](https://img.icons8.com/color/72/jenkins)
 ![Github](https://img.icons8.com/ios-glyphs/72/github.png)
 ![Git](https://img.icons8.com/color/72/git.png)
