@@ -32,6 +32,8 @@
 <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="72">
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width=72px height=72px>
 <img src="https://styles.redditmedia.com/t5_2rsc80/styles/communityIcon_ao8w1ey2od551.png" width=72px height=72px>
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" >
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" >
 
 ![NPM](https://img.icons8.com/color/72/npm.png)
 ![Docker](https://img.icons8.com/color/72/docker)
@@ -41,8 +43,7 @@
 ![Jenkins](https://img.icons8.com/color/72/jenkins)
 ![Github](https://img.icons8.com/ios-glyphs/72/github.png)
 ![Git](https://img.icons8.com/color/72/git.png)
-<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" >
-<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" >
+
  
 ![Windows](https://img.icons8.com/color/72/windows-10.png)
 ![Ubuntu](https://img.icons8.com/color/72/ubuntu--v1.png)
