@@ -1,12 +1,12 @@
 # Hello, I'm Mohamed Ali 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=151385&width=540&lines=Final+Year+Computer+Science+Student+;Software+Engineering,DevOps+And+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=151385&width=540&lines=DevOps+Software+Engineer;)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ali-azouzi-devops-software-engineer/) 
 [![Upwork](https://img.shields.io/badge/upwork-%231DB954.svg?&style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0196f8cbf625f2923f)
 
 
-- 🚀 Passionate computer science engineering student fueled by a love for crafting innovative solutions.
+- 🚀 Passionate DevOps software engineer fueled by a love for crafting innovative solutions.
 - 🌐 I thrive on the challenges of software engineering and aspire to leave an indelible mark on the digital landscape.
 - :trophy: 2025 Goals: Add the final strokes to my academic canvas and contribute to open source projects.
 <!--- :dart: Wasting my time to save other people's time.-->
