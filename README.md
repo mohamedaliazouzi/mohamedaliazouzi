@@ -8,7 +8,7 @@
 
 - 🚀 Passionate DevOps software engineer fueled by a love for crafting innovative solutions.
 - 🌐 I thrive on the challenges of software engineering and aspire to leave an indelible mark on the digital landscape.
-- :trophy: 2025 Goals: Add the final strokes to my academic canvas and contribute to open source projects.
+- :trophy: 2025 Goals: Reach the top rated plus level on Upwork.
 <!--- :dart: Wasting my time to save other people's time.-->
 
 
