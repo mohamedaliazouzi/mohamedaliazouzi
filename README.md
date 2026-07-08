@@ -67,5 +67,4 @@
 
 <br>
   <br>
- <img alt="snake eating my contribution" src="https://github.com/mohamedaliazouzi/mohamedaliazouzi/blob/main/profile-3d-contrib/profile-south-season-animate.svg">
 <!-- markdownlint-enable MD033 -->
