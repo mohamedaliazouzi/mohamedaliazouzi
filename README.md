@@ -6,8 +6,8 @@
 [![Upwork](https://img.shields.io/badge/upwork-%231DB954.svg?&style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0196f8cbf625f2923f)
 
 
-- 🚀 Platform & DevOps engineer focused on building and operating reliable software systems.
-- 🌐 Driven by complex engineering challenges and long-term impact in production environments.
+- Platform & DevOps engineer focused on building and operating reliable software systems.
+- Driven by complex engineering challenges and long-term impact in production environments.
 <!--- :dart: Wasting my time to save other people's time.-->
 
 
